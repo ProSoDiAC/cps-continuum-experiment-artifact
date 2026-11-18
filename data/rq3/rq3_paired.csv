@@ -1,0 +1,14 @@
+,value
+n_pairs,3.0
+lat_median_delta_mean,0.03666666666667121
+lat_median_delta_min,-0.1379999999999768
+lat_median_delta_max,0.2220000000000084
+lat_p99_delta_mean,-0.01833333333334508
+lat_p99_delta_min,-0.3499999999999943
+lat_p99_delta_max,0.6029999999999802
+miss_rate_delta_mean,0.0
+miss_rate_delta_min,0.0
+miss_rate_delta_max,0.0
+gateway_cpu_delta_mean,-0.0036655592469545897
+gateway_cpu_delta_min,-0.010033222591362134
+gateway_cpu_delta_max,-0.00046511627906975495

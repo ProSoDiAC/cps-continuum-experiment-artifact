@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the paper below."
+title: "Artifact of: Reproducible Smart-City CPS Experimentation over the Cloud Continuum"
+type: software
+license: Apache-2.0
+authors:
+  - family-names: Mirto
+    given-names: Fabio Orazio
+    affiliation: University of Messina
+  - family-names: Tricomi
+    given-names: Giuseppe
+    affiliation: University of Messina
+  - family-names: D'Agati
+    given-names: Luca
+    affiliation: University of Messina
+  - family-names: Puliafito
+    given-names: Antonio
+    affiliation: University of Messina
+  - family-names: Longo
+    given-names: Francesco
+    affiliation: University of Messina
+  - family-names: Merlino
+    given-names: Giovanni
+    affiliation: University of Messina
+preferred-citation:
+  type: conference-paper
+  title: "Reproducible Smart-City CPS Experimentation over the Cloud Continuum: An Experiment Descriptor and a Traffic-Control Case Study"
+  authors:
+    - family-names: Mirto
+      given-names: Fabio Orazio
+    - family-names: Tricomi
+      given-names: Giuseppe
+    - family-names: D'Agati
+      given-names: Luca
+    - family-names: Puliafito
+      given-names: Antonio
+    - family-names: Longo
+      given-names: Francesco
+    - family-names: Merlino
+      given-names: Giovanni
+  collection-title: "Communications in Computer and Information Science"
+  publisher:
+    name: Springer
+  year: 2026
+  notes: "To appear"
